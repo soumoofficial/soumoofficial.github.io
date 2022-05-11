@@ -1,7 +1,10 @@
 # My-Portfolio
 
+
 Steps to view Portfolio :-
-a) Link :- 
+a) Link :-  https://soumoofficial.github.io/
+Click on the above link to see my portfolio.
+
 
 Steps to modify and customize it for self purpose :-
 a) Download all the source files.
